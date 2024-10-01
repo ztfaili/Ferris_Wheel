@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open ferris_wheel.html",
+            "file": "c:\\Users\\ztfai\\OneDrive\\Desktop\\CS559 P2\\ferris_wheel.html"
+        }
+    ]
+}
